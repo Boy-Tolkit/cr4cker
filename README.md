@@ -10,7 +10,7 @@ $ pip2 install lolcat
 $ pip2 install bs4
 $ pkg install git
 ```
-RUN
+# RUN
 ```
 $ git clone https://github.com/Boy-Tolkit/cr4cker
 $ cd cr4cker
